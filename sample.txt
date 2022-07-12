@@ -1,4 +1,4 @@
 Initial Git commit
 Exploring Git Basic Commands
 Git
-shkdfkdfkdgdglf
+Explore Git Confluence for git commands
